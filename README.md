@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Contact me via LinkedIn
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Coffee gives me superpowers. I tend to run into fewer bugs when I'm drinking coffee while coding simultaneously!
+- ⚡ Fun fact: I love coding in cafes. What better way to struggle with fixing a bug when you're sitting in a cafe, sipping a hazelnut latte and eating a fresh croissant?
 
 <!---
 golsamomeni/golsamomeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
